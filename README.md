@@ -1,8 +1,3 @@
 ### Hi there👋
 
-#Data structure
-
-#Algorithm
-
-#Graph Implementation
-
+ผู้แทนศูนย์ KMUTNB
