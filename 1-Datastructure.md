@@ -1,10 +1,10 @@
 # table of contents
-- 1.) Linear list
+- 1. Linear list
     - 1.1) Array & Vector
     - 1.2) Linked list
     - 1.3) Stack Queue & Dequeue
 
-- 2.) Non-linear list
+- 2. Non-linear list
     - 2.1) Tree
         - 2.1.1) Binary Tree
         - 2.1.2) Set & Map
